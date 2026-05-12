@@ -36,8 +36,8 @@ It demonstrates how TCP sockets can be used to establish a remote command execut
 Before compiling, edit the IP address and port inside the source code:
 
 ```c
-char *ip = "192.168.1.10";
-int port = 8081;
+char *ip = "IP";
+int port = PORT;
 ```
 
 | Setting | Description |
