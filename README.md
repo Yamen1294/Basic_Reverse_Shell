@@ -42,8 +42,8 @@ int port = 8081;
 
 | Setting | Description |
 |---|---|
-| `192.168.1.10` | Attacker machine IP |
-| `8081` | Listening port |
+| `IP` | Attacker machine IP |
+| `PORT` | Listening port |
 
 ---
 
